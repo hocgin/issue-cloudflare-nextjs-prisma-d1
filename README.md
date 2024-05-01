@@ -1,6 +1,8 @@
 ## Getting Started
 
 > issue-cloudflare-nextjs-prisma-d1
+>
+> [issues#740](https://github.com/cloudflare/next-on-pages/issues/740)
 
 First, run the development server:
 
