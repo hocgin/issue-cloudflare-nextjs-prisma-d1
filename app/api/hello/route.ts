@@ -26,5 +26,5 @@ export async function GET(request: NextRequest) {
     // const suffix = await myKv.get('suffix')
     // responseText += suffix
 
-    return new Response(responseText)
+    return new Response(`${responseText} - ${count}`)
 }
